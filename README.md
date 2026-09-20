@@ -1,3 +1,3 @@
-# wanderlust_1
+# wanderlust
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-kfjco74x)
+(https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-kfjco74x)
